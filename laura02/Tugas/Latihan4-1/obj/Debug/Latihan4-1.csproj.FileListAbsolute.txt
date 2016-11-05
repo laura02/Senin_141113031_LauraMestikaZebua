@@ -1,0 +1,9 @@
+D:\Sanjaya\Tugas didol\Senin_141113031_LauraMestikaZebua\Latihan4-1\bin\Debug\Latihan4-1.exe.config
+D:\Sanjaya\Tugas didol\Senin_141113031_LauraMestikaZebua\Latihan4-1\bin\Debug\Latihan4-1.exe
+D:\Sanjaya\Tugas didol\Senin_141113031_LauraMestikaZebua\Latihan4-1\bin\Debug\Latihan4-1.pdb
+D:\Sanjaya\Tugas didol\Senin_141113031_LauraMestikaZebua\Latihan4-1\obj\Debug\Latihan4-1.csprojResolveAssemblyReference.cache
+D:\Sanjaya\Tugas didol\Senin_141113031_LauraMestikaZebua\Latihan4-1\obj\Debug\Latihan4_1.Form1.resources
+D:\Sanjaya\Tugas didol\Senin_141113031_LauraMestikaZebua\Latihan4-1\obj\Debug\Latihan4_1.Properties.Resources.resources
+D:\Sanjaya\Tugas didol\Senin_141113031_LauraMestikaZebua\Latihan4-1\obj\Debug\Latihan4-1.csproj.GenerateResource.Cache
+D:\Sanjaya\Tugas didol\Senin_141113031_LauraMestikaZebua\Latihan4-1\obj\Debug\Latihan4-1.exe
+D:\Sanjaya\Tugas didol\Senin_141113031_LauraMestikaZebua\Latihan4-1\obj\Debug\Latihan4-1.pdb
