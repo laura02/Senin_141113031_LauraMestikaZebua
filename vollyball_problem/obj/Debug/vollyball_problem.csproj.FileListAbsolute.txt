@@ -1,0 +1,9 @@
+D:\SEM 5\Selasa_141113031_LauraMestikaZebua\vollyball_problem\bin\Debug\vollyball_problem.exe.config
+D:\SEM 5\Selasa_141113031_LauraMestikaZebua\vollyball_problem\obj\Debug\vollyball_problem.csprojResolveAssemblyReference.cache
+D:\SEM 5\Selasa_141113031_LauraMestikaZebua\vollyball_problem\obj\Debug\vollyball_problem.Form1.resources
+D:\SEM 5\Selasa_141113031_LauraMestikaZebua\vollyball_problem\obj\Debug\vollyball_problem.Properties.Resources.resources
+D:\SEM 5\Selasa_141113031_LauraMestikaZebua\vollyball_problem\obj\Debug\vollyball_problem.csproj.GenerateResource.Cache
+D:\SEM 5\Selasa_141113031_LauraMestikaZebua\vollyball_problem\bin\Debug\vollyball_problem.exe
+D:\SEM 5\Selasa_141113031_LauraMestikaZebua\vollyball_problem\bin\Debug\vollyball_problem.pdb
+D:\SEM 5\Selasa_141113031_LauraMestikaZebua\vollyball_problem\obj\Debug\vollyball_problem.exe
+D:\SEM 5\Selasa_141113031_LauraMestikaZebua\vollyball_problem\obj\Debug\vollyball_problem.pdb
